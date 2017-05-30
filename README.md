@@ -1,2 +1,4 @@
 # Random-Quote-Machine
-Intermediate Front End Development Projects 1
+This quote machine generates quotes from lyrics of musics upon the author's choice. 
+
+https://heathercoraje.github.io/Random-Quote-Machine/

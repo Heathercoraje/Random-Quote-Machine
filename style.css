@@ -80,17 +80,17 @@ i {
 
 .buttons .button {
   height: 40px;
-  border:solid; grey;
+  border: none;
   border-radius: 5px;
   color:white;
   background-color: powderblue;
   font-size: 0.85em;
   opacity: 1;
   padding:10px;
+
 }
 .button:hover {
   opacity: 0.8;
-
 }
 
 #tweet-quote,  #facebook-quote{

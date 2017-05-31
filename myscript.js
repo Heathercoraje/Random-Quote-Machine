@@ -22,14 +22,18 @@ document.addEventListener('DOMContentLoaded',function(){
     document.getElementById("author").innerHTML = randomAuthor;
     document.body.style.backgroundColor = randomColor;
     document.body.style.color = randomColor;
+    document.getElementById("tweet-quote").style.backgroundColor = randomColor;
+    document.getElementById("facebook-quote").style.backgroundColor = randomColor;
+    document.getElementById("new-quote").style.backgroundColor = randomColor;
 
 
   }
 
+
+
       var button = document.querySelector("#new-quote");
       button.addEventListener("click", function(){
         getQuote();
-        button.classList.add("active");
 
       });
 
